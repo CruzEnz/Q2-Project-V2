@@ -1,0 +1,45 @@
+body {
+			background-image:
+				url(https://static.vecteezy.com/system/resources/previews/007/162/596/non_2x/beautiful-blue-mountain-landscape-with-sunrise-and-sunset-in-mountains-background-dark-night-time-outdoor-and-hiking-concept-sun-in-the-sky-good-for-wallpaper-site-banner-cover-poster-free-vector.jpg);
+				color: white;
+				background-repeat: no repeat;
+				background-position: center center;
+			}
+        .header{
+				
+            background-color: orange;
+			font-family: 'Roboto Mono', sans-serif;
+			border: 2px solid white; 
+			border-radius: 15px;
+			color: white;
+			padding: 5px;
+			margin: 20px;
+		
+		
+            }	
+		.places {
+			background-color: black;
+			text-align: center;
+			border: 2px solid grey; 
+			width: 300px; 
+			padding: 30px;
+			font-family: 'Roboto Mono', sans-serif;
+			border-radius: 15px;
+
+				}	
+		.section {
+			display: flex;
+			justify-content: center;
+			flex-wrap: wrap;
+			gap: 10px;
+			}
+			
+		.footer{
+			font-family: 'Roboto Mono', sans-serif;
+			padding: 5px;
+			margin: 20px;
+			);
+				color: white;
+				background-repeat: no repeat;
+				background-position: center center;	
+			}	
